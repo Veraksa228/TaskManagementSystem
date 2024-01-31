@@ -11,8 +11,8 @@
     <groupId>com.petproject</groupId>
     <artifactId>TaskManagmentSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TaskManagmentSystem</name>
-    <description>TaskManagmentSystem</description>
+    <name>TaskManagementSystem</name>
+    <description>TaskManagementSystem</description>
     <properties>
         <java.version>21</java.version>
     </properties>
